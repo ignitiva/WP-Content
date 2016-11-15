@@ -1,0 +1,13 @@
+#cpt_editor .postbox-container{
+	margin-top: 26px;
+}
+
+.cpt_editor_featured_image{
+	display: none;
+	display: inline-block;
+	margin: 0px 0px 10px;
+}
+
+.cpt_editor_featured_image_url{
+	display: none;
+}
